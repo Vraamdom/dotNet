@@ -1,0 +1,16 @@
+﻿@model HomeIndexViewModel
+@{
+    //trasnmite la información de la vista hacia el layout
+    ViewData["Title"] = "Home Page";
+    /*String ConvertirEnMayusculas(string valor){
+        return valor.ToUpper() + ", MVP";
+    }
+    DateTime hoy = DateTime.Now;*/
+}
+<partial name="_Presentacion"/>
+
+<partial name="_Habilidades" />
+
+<partial name="_SeccionProyectos" model="Model.Proyectos" />
+
+ 

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Portafolio_brandon/1.0.0": {
+        "runtime": {
+          "Portafolio_brandon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Portafolio_brandon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
