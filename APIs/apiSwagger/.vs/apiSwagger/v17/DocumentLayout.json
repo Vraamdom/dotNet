@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\apiswagger\\apiswagger\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|solutionrelative:apiswagger\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\apiswagger\\apiswagger\\migrations\\20240311153434_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|solutionrelative:apiswagger\\migrations\\20240311153434_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\apiswagger\\apiswagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|solutionrelative:apiswagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\apiswagger\\apiswagger\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|solutionrelative:apiswagger\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\apiswagger\\apiswagger\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|solutionrelative:apiswagger\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\apiswagger\\apiswagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|solutionrelative:apiswagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\apiswagger\\apiswagger\\apiswagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA591CEF-AED6-4608-88DA-BCF141E2DAEC}|apiSwagger\\apiSwagger.csproj|solutionrelative:apiswagger\\apiswagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "apiSwagger\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "apiSwagger\\Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:40:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240311153434_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Migrations\\20240311153434_initial.cs",
+              "RelativeDocumentMoniker": "apiSwagger\\Migrations\\20240311153434_initial.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Migrations\\20240311153434_initial.cs",
+              "RelativeToolTip": "apiSwagger\\Migrations\\20240311153434_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:34:35.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\appsettings.json",
+              "RelativeDocumentMoniker": "apiSwagger\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\appsettings.json",
+              "RelativeToolTip": "apiSwagger\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T15:42:24.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Program.cs",
+              "RelativeDocumentMoniker": "apiSwagger\\Program.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Program.cs",
+              "RelativeToolTip": "apiSwagger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:41:12.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "apiSwagger\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "apiSwagger\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAACAmZmZmRkmwAoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:36:05.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "apiSwagger.csproj",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\apiSwagger.csproj",
+              "RelativeDocumentMoniker": "apiSwagger\\apiSwagger.csproj",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\apiSwagger.csproj",
+              "RelativeToolTip": "apiSwagger\\apiSwagger.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T15:35:25.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "apiSwagger\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\apiSwagger\\apiSwagger\\Models\\Producto.cs",
+              "RelativeToolTip": "apiSwagger\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:34:01.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
